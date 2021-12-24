@@ -1,0 +1,7 @@
+{
+  "localaddr": "127.0.0.1:12948",
+  "remoteaddr": "xxx.xxx.xxx.xxx:443",
+  "key": "suibianyong",
+  "crypt": "salsa20",
+  "mode": "fast2"
+}
